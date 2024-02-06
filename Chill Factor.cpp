@@ -1,7 +1,3 @@
-//Carter Dunaway
-//COSC1303-01 Assignment 1
-//January 26'th, 2024
-
 #include <iostream>
 #include <math.h>
 
